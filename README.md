@@ -1,6 +1,6 @@
-<h1>Aplicativo Web Clone do AirBnB feito na semana de aprendizado OminiStack da Rocskeat.<h1>
+<h1>Aplicativo Web Clone do AirBnB feito na semana de aprendizado OmniStack da Rocketseat.<h1>
   <p>Parte do sistema web</p>
-  <b><Desenvolvido em React/b>
+  <p><b><Desenvolvido em React/b></p>
     <img src="./src/assets/1.png">
 
 
